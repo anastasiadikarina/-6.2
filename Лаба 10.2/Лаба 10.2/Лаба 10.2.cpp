@@ -146,5 +146,7 @@ int main() {
     clearList();
     printList();
 
+    printf("Hello World")
+    
     return 0;
 }
